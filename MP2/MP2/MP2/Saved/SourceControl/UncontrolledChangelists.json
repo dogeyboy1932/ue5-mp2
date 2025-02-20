@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/UI/GameOver.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/UI/HealthBar.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Pickups/HealthPack.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Pickups/Collectable.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/AI/PursuerChar.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/AI/PursuerControl.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/AI/EAIState.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/vg23/Downloads/MP2/MP2/Content/LearningKit_Games/Blueprints/Pickups/HarmPack.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Pickups/PursuerControl.uasset",
+				"C:/Users/vg23/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerChar.uasset"
+			]
+		}
+	]
+}
